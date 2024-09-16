@@ -43,4 +43,11 @@ go.work
 .history
 .ionide
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
 # End of https://www.toptal.com/developers/gitignore/api/go,visualstudiocode
