@@ -14,4 +14,4 @@ Taken from [TutorialEdge.net](https://tutorialedge.net/challenges/go/).
 9. [Finding the nth Triangular Number](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/09%20-%20Finding%20the%20nth%20Triangular%20Number)
 
 ## Intermediate
-10. [Checking for Duplicates]
+10. [Checking for Duplicates](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/10%20-%20Checking%20for%20Duplicates)
