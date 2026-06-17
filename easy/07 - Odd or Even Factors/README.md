@@ -1,0 +1,2 @@
+# Challenge 07 - Odd or Even Factors
+👋 Welcome Gophers! In this challenge, you will be tasked with implementing a function that will return either `odd` or `even` as a `string` value, depending on whether or not a number has an odd or an even number of factors.

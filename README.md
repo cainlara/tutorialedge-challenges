@@ -8,7 +8,7 @@ Taken from [TutorialEdge.net](https://tutorialedge.net/challenges/go/).
 3. [Sorting Flights by Price](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/03%20-%20Sorting%20Flights%20by%20Price)
 4. [Word Frequencies](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/04%20-%20Word%20Frequencies)
 5. [Armstrong Numbers](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/05%20-%20Armstrong%20Numbers)
-6. [Repeating Letters]
+6. [Repeating Letters] (https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/06%20-%20Repeating%20Letters)
 
 ## Intermediate
 10. [Checking for Duplicates]
