@@ -11,6 +11,7 @@ Taken from [TutorialEdge.net](https://tutorialedge.net/challenges/go/).
 6. [Repeating Letters](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/06%20-%20Repeating%20Letters)
 7. [Odd or Even Factors](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/07%20-%20Odd%20or%20Even%20Factors)
 8. [Difference Between Squares](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/08%20-%20Difference%20Between%20Squares)
+9. [Finding the nth Triangular Number](https://github.com/cainlara/tutorialedge-challenges/tree/main/easy/09%20-%20Finding%20the%20nth%20Triangular%20Number)
 
 ## Intermediate
 10. [Checking for Duplicates]
