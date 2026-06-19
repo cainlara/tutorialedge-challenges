@@ -17,3 +17,4 @@ Taken from [TutorialEdge.net](https://tutorialedge.net/challenges/go/).
 10. [Checking for Duplicates](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/10%20-%20Checking%20for%20Duplicates)
 11. [Minimums, Maximums and Errors](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/11%20-%20Minimums%2C%20Maximums%20and%20Errors)
 12. [Check Permutations](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/12%20-%20Check%20Permutations)
+13. [Sets and Subsets](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/13%20-%20Sets%20and%20Subsets)
