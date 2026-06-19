@@ -18,3 +18,4 @@ Taken from [TutorialEdge.net](https://tutorialedge.net/challenges/go/).
 11. [Minimums, Maximums and Errors](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/11%20-%20Minimums%2C%20Maximums%20and%20Errors)
 12. [Check Permutations](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/12%20-%20Check%20Permutations)
 13. [Sets and Subsets](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/13%20-%20Sets%20and%20Subsets)
+14. [Smallest Difference bewteen Ints](https://github.com/cainlara/tutorialedge-challenges/tree/main/intermediate/14%20-%20Smallest%20Difference%20Between%20Ints)
